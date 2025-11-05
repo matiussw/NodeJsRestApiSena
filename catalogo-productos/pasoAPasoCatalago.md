@@ -58,6 +58,7 @@ New-Item -ItemType File -Path index.html, css/styles.css, js/app.js
 Copia este código en `index.html`:
 
 ```html
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -82,16 +83,6 @@ Copia este código en `index.html`:
     <!-- CONTENEDOR PRINCIPAL -->
     <div class="container">
         
-        <!-- FILTROS -->
-        <div class="filtros">
-            <h2>Categorías</h2>
-            <button class="filtro-btn active" data-categoria="all">Todos</button>
-            <button class="filtro-btn" data-categoria="electronics">Electrónicos</button>
-            <button class="filtro-btn" data-categoria="jewelery">Joyería</button>
-            <button class="filtro-btn" data-categoria="men's clothing">Ropa Hombre</button>
-            <button class="filtro-btn" data-categoria="women's clothing">Ropa Mujer</button>
-        </div>
-
         <!-- LOADER (mientras carga) -->
         <div id="loader" class="loader">
             <div class="spinner"></div>
