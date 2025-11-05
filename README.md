@@ -190,7 +190,6 @@ curl -X DELETE http://localhost:3000/api/tareas/2
 
 ## 📚 Documentación Adicional
 
-- [Guía Completa de Node.js y APIs REST](docs/guia-completa.md)
 - [Ejercicios Prácticos](docs/ejercicios.md)
 - [Documentación de Express](https://expressjs.com/)
 - [Documentación de Node.js](https://nodejs.org/docs/)

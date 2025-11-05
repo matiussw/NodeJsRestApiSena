@@ -440,26 +440,6 @@ CREATE TABLE notas (
 );
 ```
 
----
-
-## 🎯 Ejercicios Extra Avanzados
-
-### Extra 1: Autenticación Básica
-Implementa autenticación con JWT (JSON Web Tokens)
-
-### Extra 2: Rate Limiting
-Implementa límite de peticiones por usuario
-
-### Extra 3: Documentación con Swagger
-Documenta tu API usando Swagger/OpenAPI
-
-### Extra 4: Tests
-Escribe tests con Jest o Mocha
-
-### Extra 5: Deploy
-Despliega tu API en Render, Railway o Heroku
-
----
 
 ## 📋 Checklist de Progreso
 
